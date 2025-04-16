@@ -1,6 +1,6 @@
-# SugarchainTGBot
+# BriskcoinTGBot
 
-##### A telegram tipbot which utilises a REST [api](https://api.sugarchain.org) and [python-bitcoin-utils](https://github.com/Nugetzrul3/python-bitcoin-utils)
+##### A telegram tipbot which utilises a REST [api](http://api.briskcoin.org) and [python-bitcoin-utils](https://github.com/briskcoin-project/python-bitcoin-utils)
 
 ### Config
 1. Create a `configs` folder and make a new `config.py` file within it
